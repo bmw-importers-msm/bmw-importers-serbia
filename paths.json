@@ -1,5 +1,7 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
-  ]
+    "/content/metafox-msm-demo/rs/en/:/",
+    "/content/metafox-msm-demo/rs/rs/:/"
+],
+  "includes": ["/content/metafox-msm-demo/rs/en/","/content/metafox-msm-demo/rs/rs/"]
 }
